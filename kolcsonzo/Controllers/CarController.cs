@@ -74,6 +74,11 @@ namespace kolcsonzo.Controllers
                 return NotFound();
             }
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param >asdsadsadsadsadasadsa</param>
+        /// <returns></returns>
 
         [HttpDelete]
         public ActionResult<Car> Delete(string id)
