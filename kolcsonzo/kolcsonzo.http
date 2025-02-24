@@ -1,0 +1,6 @@
+@kolcsonzo_HostAddress = http://localhost:5148
+
+GET {{kolcsonzo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
